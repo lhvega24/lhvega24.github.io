@@ -1,0 +1,42 @@
+{
+    {
+        "imagen": "https://m.media-amazon.com/images/M/MV5BMDBiYmRkNjUtYzc4My00NGFiLWE2NWUtMGU1ZDA1NTQ3ZjQwXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg",
+        "título": "Anatomy of a Fall",
+        "director": "Justine Triet",
+        "fecha": "23 de agosto de 2023",
+        "puntuacion": 5,
+        "descripcion": "Una mujer es sospechosa del asesinato de su marido, y su hijo ciego se enfrenta a un dilema moral como único testigo."
+    },
+    {
+        "imagen": "https://m.media-amazon.com/images/M/MV5BZmYzMjMzN2EtMGYwNi00ODc3LWI3YTctMjA5YjI1MGFkYTlhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
+        "título": "All of Us Strangers",
+        "director": "Andrew Haigh",
+        "fecha": "22 de diciembre de 2023",
+        "puntuacion": 5,
+        "descripcion": "Una noche, en su bloque de pisos casi vacío de Londres, el guionista Adam tiene un encuentro casual con su misterioso vecino Harry, lo que rompe el ritmo de su vida cotidiana. A medida que se desarrolla una relación entre ellos, Adam se siente atraído de nuevo a la casa de su infancia, donde sus padres parecen vivir tal como vivían el día en que murieron hace 30 años."
+    },
+    {
+        "imagen": "https://m.media-amazon.com/images/M/MV5BMTk5MzY4MDkwOV5BMl5BanBnXkFtZTgwMzY4MzczOTE@._V1_FMjpg_UX1000_.jpg",
+        "título": "Imperium",
+        "director": "Daniel Ragussis",
+        "fecha": "19 de agosto de 2016",
+        "puntuacion": 5,
+        "descripcion": "El agente del FBI Nate Foster se hace pasar por miembro de un grupo neonazi y se adentra en el submundo de los supremacistas blancos para evitar inminentes ataques terroristas."
+    },
+    {
+        "imagen": "https://m.media-amazon.com/images/M/MV5BNTk1MTdmYzctNzlkOS00ZTNmLWI4ZTMtMzc3OWFkMDI0MTJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+        "título": "Challengers",
+        "director": "Luca Guadagnino",
+        "fecha": "24 de abril de 2024 ",
+        "puntuacion": 4,
+        "descripcion": "Tashi, una tenista que se convirtió en entrenadora, ha transformado a su marido de un jugador mediocre en un campeón mundial de Grand Slam. Para sacarlo de su reciente racha de derrotas, lo obliga a jugar un torneo Challenger, cerca del nivel más bajo del torneo profesional. Las tensiones aumentan rápidamente cuando Se encuentra parado frente a Patrick, el otrora prometedor, ahora agotado, su ex mejor amigo y ex novio de Tashi."
+    },
+    {
+        "imagen": "https://pics.filmaffinity.com/Chinas-874525679-large.jpg",
+        "título": "Chinas",
+        "director": "Arantxa Echevarría",
+        "fecha": "27 de septiembre de 2023",
+        "puntuacion": 5,
+        "descripcion": "Lucía, Xiang y Claudia son tres chicas de origen chino que viven en Madrid pero con realidades completamente opuestas. Las tres historias se cruzan y se separan, pero mantienen un objetivo común: la búsqueda de la identidad propia."
+    }
+}
